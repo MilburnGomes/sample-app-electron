@@ -1,0 +1,4 @@
+node_modules
+release-builds
+sample-app-electron-win32-x64
+dist
